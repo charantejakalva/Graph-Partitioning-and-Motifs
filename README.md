@@ -1,7 +1,7 @@
 # Graph-Partitioning-and-Motifs
-Partitioning a given graph using Kernighan–Lin algorithm and Finding motifs using graph-tool.
+Partitioning a given graph using Kernighan–Lin algorithm and Finding motifs using graph-tool. </br>
 
 This is a Repository to solve problems on graph partitioning and Motif Counting. </br>
-graph.txt is used for graph partitioning
+graph.txt is used for graph partitioning </br>
 bison.txt, jazz.txt are the graphs that are used to count the given motifs in the pdf.
 
